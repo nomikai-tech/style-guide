@@ -16,12 +16,18 @@
 
 [Tailwind Config File Example](/tailwind-config.example.js)
 
+
+
 ### Brand Colors
 | `Rose` | `Turquoise` | `Azure` | `Light Blue` | `Aquamarine` | `Slate Gray` |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/fe017f?style=round&size=70'/></a> <br/> #fe017f|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/3edfcf?style=round&size=70'/></a> <br/> #3edfcf|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/f0ffff?style=round&size=70'/></a> <br/> #f0ffff|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/add8e6?style=round&size=70'/></a> <br/> #add8e6|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/7efed2?style=round&size=70'/></a> <br/> #7efed2|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/697b8c?style=round&size=70'/></a> <br/> #697b8c|
 
+
+
 --- 
+
+
 
 ### Primary Colors
 
@@ -42,6 +48,7 @@
 | `100` | `200` | `300` | `400` | `500` | `600` | `700` | `800` | `900` | 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/d8f9f5?style=round&size=70'/></a> <br/> #d8f9f5 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/b2f2ec?style=round&size=70'/></a> <br/> #b2f2ec | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/8bece2?style=round&size=70'/></a> <br/> #8bece2 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/65e6d9?style=round&size=70'/></a> <br/> #65e6d9 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/3edfcf?style=round&size=70'/></a> <br/> #3edfcf | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/20c4b4?style=round&size=70'/></a> <br/> #20c4b4 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/189387?style=round&size=70'/></a> <br/> #189387 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/10625a?style=round&size=70'/></a> <br/> #10625a | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/08312d?style=round&size=70'/></a> <br/> #08312d |
+
 
 
 ### Secondary Colors
@@ -74,6 +81,7 @@
 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/e6fff6?style=round&size=70'/></a> <br/> #e6fff6 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/cdfeed?style=round&size=70'/></a> <br/> #cdfeed | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/b3fee4?style=round&size=70'/></a> <br/> #b3fee4 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/9afedb?style=round&size=70'/></a> <br/> #9afedb | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/7efed2?style=round&size=70'/></a> <br/> #7efed2 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/35fdb7?style=round&size=70'/></a> <br/> #35fdb7 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/02e394?style=round&size=70'/></a> <br/> #02e394 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/029763?style=round&size=70'/></a> <br/> #029763 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/014c31?style=round&size=70'/></a> <br/> #014c31 |
 
 
+
 ### Blacks & Grays
 
 #### Slate Gray | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/697b8c?style=round&size=16'/></a>
@@ -93,6 +101,7 @@
 | `100` | `200` | `300` | `400` | `500` | `600` | `700` | `800` | `900` | 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/cdd1d7?style=round&size=70'/></a> <br/> #cdd1d7 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/9ba4af?style=round&size=70'/></a> <br/> #9ba4af | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/6b7786?style=round&size=70'/></a> <br/> #6b7786 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/434a54?style=round&size=70'/></a> <br/> #434a54 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/1b1e22?style=round&size=70'/></a> <br/> #1b1e22 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/16181b?style=round&size=70'/></a> <br/> #16181b | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/101214?style=round&size=70'/></a> <br/> #101214 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/0b0c0e?style=round&size=70'/></a> <br/> #0b0c0e | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/050607?style=round&size=70'/></a> <br/> #050607 |
+
 
 
 ### Success | Error Messages
@@ -115,6 +124,8 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/ffccdc?style=round&size=70'/></a> <br/> #ffccdc | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/ff99b9?style=round&size=70'/></a> <br/> #ff99b9 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/ff6696?style=round&size=70'/></a> <br/> #ff6696 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/ff3374?style=round&size=70'/></a> <br/> #ff3374 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/ff004f?style=round&size=70'/></a> <br/> #ff004f | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/cc0041?style=round&size=70'/></a> <br/> #cc0041 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/990030?style=round&size=70'/></a> <br/> #990030 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/660020?style=round&size=70'/></a> <br/> #660020 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/330010?style=round&size=70'/></a> <br/> #330010 |
 
+
+
 ## Logo
 | | Image |
 |:--:|:--:|
@@ -122,6 +133,8 @@ Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuU
 Logo Black | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/51c1e925-f417-4a2c-1cab-b8cdaade2b00/public'/></a> |
 Logo White | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/9f81cd57-57fb-4beb-7016-a20d456c4000/public'/></a> |
 Logo w/ Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/fc88f9b1-c3ef-4e4c-d24b-2a44d2817200/public'/></a>
+
+
 
 ## Typography
 | | Font | Link | 
