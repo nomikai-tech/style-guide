@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://nomikai.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/71401a2b-9d70-476e-3aad-e12d3a049d00/public">
-      <img src="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/71401a2b-9d70-476e-3aad-e12d3a049d00/public" height="128">
+      <source media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public">
+      <img src="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public" height="128">
     </picture>
     <h1 align="center">Nomikai</h1>
   </a>
