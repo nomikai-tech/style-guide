@@ -129,10 +129,11 @@
 ## Logo
 | | Image |
 |:--:|:--:|
-Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/71401a2b-9d70-476e-3aad-e12d3a049d00/public'/></a> |
+Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public'/></a> |
 Logo Black | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/51c1e925-f417-4a2c-1cab-b8cdaade2b00/public'/></a> |
 Logo White | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/9f81cd57-57fb-4beb-7016-a20d456c4000/public'/></a> |
-Logo w/ Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/fc88f9b1-c3ef-4e4c-d24b-2a44d2817200/public'/></a>
+Logo w/ Icon Black | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/312b4d06-319f-4522-aa4d-eccf5b280c00/public'/></a>
+Logo w/ Icon White | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/46a019e7-9f3c-4153-7ff1-cfc2f7397a00/public'/></a>
 
 
 
