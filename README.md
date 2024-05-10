@@ -93,6 +93,15 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/e1e5e8?style=round&size=70'/></a> <br/> #e1e5e8 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/c3cad1?style=round&size=70'/></a> <br/> #c3cad1 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/a4b0bb?style=round&size=70'/></a> <br/> #a4b0bb | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/8695a4?style=round&size=70'/></a> <br/> #8695a4 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/697b8c?style=round&size=70'/></a> <br/> #697b8c | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/546270?style=round&size=70'/></a> <br/> #546270 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/3f4a54?style=round&size=70'/></a> <br/> #3f4a54 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/2a3138?style=round&size=70'/></a> <br/> #2a3138 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/15191c?style=round&size=70'/></a> <br/> #15191c |
 
+#### Dark Blue | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/1C333F?style=round&size=16'/></a>
+| `Default` | `Light` |  `Dark` | 
+|:--:|:--:|:--:|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/1C333F?style=round&size=70'/></a> <br/> #1c33f|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/E2ECF2?style=round&size=70'/></a> <br/> #e2ecf2|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/0B1419?style=round&size=70'/></a> <br/> #0b1419|
+
+| `100` | `200` | `300` | `400` | `500` | `600` | `700` | `800` | `900` | 
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/c5dae5?style=round&size=70'/></a> <br/> #c5dae5 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/8cb5cb?style=round&size=70'/></a> <br/> #8cb5cb | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/5290b1?style=round&size=70'/></a> <br/> #5290b1 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/366279?style=round&size=70'/></a> <br/> #366279 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/1c333f?style=round&size=70'/></a> <br/> #1c333f | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/172933?style=round&size=70'/></a> <br/> #172933 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/111f26?style=round&size=70'/></a> <br/> #111f26 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/0b1419?style=round&size=70'/></a> <br/> #0b1419 | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/060a0d?style=round&size=70'/></a> <br/> #060a0d |
+
 #### Eerie Black | <a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/1b1e22?style=round&size=16'/></a>
 | `Default` | `Light` |  `Dark` | 
 |:--:|:--:|:--:|
