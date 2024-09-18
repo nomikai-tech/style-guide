@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://nomikai.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public">
-      <img src="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public" height="128">
+      <source media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/c8273bff-ba89-4bb0-8a53-9c1542f05700/public">
+      <img src="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/c8273bff-ba89-4bb0-8a53-9c1542f05700/public" height="128">
     </picture>
     <h1 align="center">Nomikai</h1>
   </a>
@@ -138,11 +138,11 @@
 ## Logo
 | | Image |
 |:--:|:--:|
-Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public'/></a> |
+Icon | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/c8273bff-ba89-4bb0-8a53-9c1542f05700/public'/></a> |
 Logo Black | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/51c1e925-f417-4a2c-1cab-b8cdaade2b00/public'/></a> |
 Logo White | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/9f81cd57-57fb-4beb-7016-a20d456c4000/public'/></a> |
-Logo w/ Icon Black | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/312b4d06-319f-4522-aa4d-eccf5b280c00/public'/></a>
-Logo w/ Icon White | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/46a019e7-9f3c-4153-7ff1-cfc2f7397a00/public'/></a>
+Logo w/ Icon Black | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/d0b848f6-cf8f-4547-cd03-a3fed7102600/public'/></a>
+Logo w/ Icon White | <a href='#'><img valign='middle' src='https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/9fa25bf4-6b4f-4d38-a928-e868383aaa00/public'/></a>
 
 
 
